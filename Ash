@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABA Football Coaching - Ashton Broome Alexander</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <h1>ABA Football Coaching</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#career">Career</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#facts">Facts</a></li>
+                <li><a href="#testimonials">Reviews</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero">
+        <div class="hero-content">
+            <h2>Professional Football Coaching</h2>
+            <p>Expert coaching from Ashton Broome Alexander</p>
+            <p class="tagline">Developing Players • Winning Mentality • Professional Excellence</p>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About ABA Coaching</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Welcome to ABA Football Coaching, led by Ashton Broome Alexander. With extensive experience at top football academies and competitive clubs, Ashton brings a wealth of knowledge and a passion for developing young talent.</p>
+                    <p>Specialising in goalkeeper coaching and youth development, Ashton combines technical expertise with modern coaching methodologies to help players reach their full potential.</p>
+                </div>
+                <div class="about-image">
+                    <img src="images/image1.jpg" alt="Football coaching session">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Career History Section -->
+    <section id="career" class="career">
+        <div class="container">
+            <h2>Career History</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">2015-2019</div>
+                    <div class="timeline-content">
+                        <h3>Luton Town Academy</h3>
+                        <p>Professional academy experience developing youth talent</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2019-2022</div>
+                    <div class="timeline-content">
+                        <h3>Cambridge City Football Club</h3>
+                        <p>Competitive football at higher levels</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2023-24</div>
+                    <div class="timeline-content">
+                        <h3>Biggleswade Town FC</h3>
+                        <p>Step 5 Football League experience</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2024-25</div>
+                    <div class="timeline-content">
+                        <h3>AFC Weylyn</h3>
+                        <p><strong>Step 6 Champions</strong> - Won the league title</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">Current</div>
+                    <div class="timeline-content">
+                        <h3>Leverstock Green FC</h3>
+                        <p>Step 4 Football League - Competitive football</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <h2>Coaching Rates</h2>
+            <div class="pricing-cards">
+                <div class="pricing-card">
+                    <h3>One-to-One Sessions</h3>
+                    <div class="price">£20</div>
+                    <p>per session</p>
+                    <ul>
+                        <li>Personalised coaching</li>
+                        <li>Tailored to your needs</li>
+                        <li>Flexible scheduling</li>
+                        <li>Performance feedback</li>
+                    </ul>
+                </div>
+                <div class="pricing-card featured">
+                    <h3>Group Sessions</h3>
+                    <div class="price">£10</div>
+                    <p>per player, per session</p>
+                    <ul>
+                        <li>Team development</li>
+                        <li>Competitive training</li>
+                        <li>Tactical awareness</li>
+                        <li>Team building</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Facts Section -->
+    <section id="facts" class="facts">
+        <div class="container">
+            <h2>Quick Facts</h2>
+            <div class="facts-grid">
+                <div class="fact-card">
+                    <h3>🏆 Championship Winner</h3>
+                    <p>Led AFC Weylyn to Step 6 league title in 2024-25 season</p>
+                </div>
+                <div class="fact-card">
+                    <h3>📊 10+ Years Experience</h3>
+                    <p>Extensive experience in academy and competitive football</p>
+                </div>
+                <div class="fact-card">
+                    <h3>👥 Goalkeeper Specialist</h3>
+                    <p>Expert in goalkeeper development and positioning</p>
+                </div>
+                <div class="fact-card">
+                    <h3>🎯 Player Development</h3>
+                    <p>Proven track record of developing young talent at professional level</p>
+                </div>
+                <div class="fact-card">
+                    <h3>💪 Professional Standards</h3>
+                    <p>Coaching to professional standards with modern techniques</p>
+                </div>
+                <div class="fact-card">
+                    <h3>🌟 Flexible Options</h3>
+                    <p>One-to-one and group sessions available for all levels</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="gallery">
+        <div class="container">
+            <h2>Gallery</h2>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="images/image1.jpg" alt="Coaching in action">
+                </div>
+                <div class="gallery-item">
+                    <img src="images/image2.jpg" alt="Goalkeeper coaching">
+                </div>
+                <div class="gallery-item">
+                    <img src="images/image3.jpg" alt="Team coaching session">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials">
+        <div class="container">
+            <h2>Client Reviews</h2>
+            <div class="testimonial">
+                <div class="testimonial-content">
+                    <p class="review-text">"Ashton is an exceptional coach who truly understands player development. His coaching has dramatically improved my positioning and confidence. Highly recommended!"</p>
+                    <div class="stars">★★★★★</div>
+                    <p class="client-name">- Young Goalkeeper, Hertfordshire</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Get in Touch</h2>
+            <p>Ready to take your football to the next level?</p>
+            <div class="contact-info">
+                <p><strong>Coaching Name:</strong> ABAcoaching</p>
+                <p><strong>Instagram:</strong> <a href="https://www.instagram.com/aba.coaching2026" target="_blank">@aba.coaching2026</a></p>
+            </div>
+            <p class="contact-cta">Contact Ashton to book your first session today!</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 ABA Football Coaching. All rights reserved.</p>
+            <p>Follow us on Instagram: <a href="https://www.instagram.com/aba.coaching2026" target="_blank">@aba.coaching2026</a></p>
+        </div>
+    </footer>
+</body>
+</html>
